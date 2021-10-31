@@ -1,0 +1,49 @@
+      :root{
+          margin: auto;
+      }
+      body{
+        background-color: #fcecdd;
+        text-align: center;
+        margin: auto;
+      }
+      
+      h1{
+        color: #ff6701;
+      }
+      
+      h3{
+        color: #fea82f;
+      }
+
+      img{
+        opacity: 0.5;
+        border: 5px solid #fea82f;
+      }
+      img:hover{
+        opacity:1;
+        border: 5px solid #ff6701;
+      }
+      
+      hr{
+        height: 2px;
+        border-style: none;
+        width: 100px;
+        border-top: dotted 12px;
+        border-color: #fea82f;
+        transition: transform 5s ease-in-out;
+      }
+      hr:hover{
+        height: 1,8px;
+        border-style: none;
+        border-top: dotted 12px;
+        border-color: #ff6701;
+        transform: rotate(7200deg);
+      }
+
+      ul, table{
+        margin: auto;
+      }
+
+      li{
+          list-style: none;
+      }
