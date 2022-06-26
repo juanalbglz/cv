@@ -1,0 +1,17 @@
+== Expediente académico
+[cols="3"]
+|====
+^h|Titulación ^h|Centro ^h|Nota media
+^|Grado en Bellas Artes ^| Universidad de La Laguna ^|6,83
+|====
+
+== Formación académica acreditada
+[cols="3"]
+|====
+^h|Titulación ^h|Centro ^h|Nota media
+^|Introduction to Computer Science and Programming Using Python (150h) ^| Massachusetts Institute of Technology ^| Apto
+^|Visual Elements of User Interface Design (16h)^| California Institute of the Arts ^| Apto
+^|Technical Support Fundamentals (20h) ^| Google ^| Apto
+^|JavaScript for Beginners (5h) ^| stepik ^| with distinction 100/100
+^|Easy Way to Technical Writing (5h) ^| stepik (Polina Gantman) ^| with distinction 94/100
+|====

@@ -1,0 +1,49 @@
+= Juan Alberto González Rodríguez
+Juan Alberto González, 25/06/2022
+:includedir: _includes
+
+[cols="3"]
+[width="100%"]
+|====
+^h|Primer apellido ^h|Segundo apellido ^h|Nombre
+^|González ^| Rodríguez ^| Juan Alberto
+|====
+[cols="2"]
+[width="66,66%"]
+|====
+^h|Fecha de Nacimiento ^h|NIF
+^|13/01/1979 ^| 78563258L
+|====
+
+
+include::_includes/1_education.adoc[]
+
+include::_includes/2_grants_honors_scholarshipps.adoc[]
+
+include::_includes/3_research_experience.adoc[]
+
+include::_includes/4_teaching_experience.adoc[]
+
+include::_includes/5_professional_experience.adoc[]
+
+include::_includes/6_work_experience.adoc[]
+
+include::_includes/7_campus_involvement.adoc[]
+
+include::_includes/8_publications.adoc[]
+
+include::_includes/9_presentations.adoc[]
+
+include::_includes/10_professional_affiliations.adoc[]
+
+include::_includes/11_references.adoc[]
+
+image::_includes/certificates/6001x.pdf[]
+
+image::_includes/certificates/techsup.pdf[]
+
+image::_includes/certificates/TechWri.pdf[]
+
+image::_includes/certificates/UERHXD.pdf[]
+
+image::_includes/certificates/veUId.pdf[]
